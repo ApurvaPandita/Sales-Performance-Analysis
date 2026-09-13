@@ -60,10 +60,13 @@ The underlying data model contains the following tables:
 ---
 ## 📸 Dashboard Screenshots
 
+## Sales Overview
 ![](sales_overview.png)
 
-![](performance_overview.png)
+## Sales Performance Analysis
+![](performance_analysis.png)
 
+## Customer Feedback
 ![](customer_feedback.png)
 
 ---
