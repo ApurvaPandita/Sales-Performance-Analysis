@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis
+# Sales Performance Analysis
 > A multi-page Power BI dashboard that turns raw sales, product, and customer feedback data into an interactive tool for tracking performance and spotting trends at a glance.
 
 ---
