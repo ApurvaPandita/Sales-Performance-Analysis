@@ -60,6 +60,12 @@ The underlying data model contains the following tables:
 ---
 ## 📸 Dashboard Screenshots
 
+![](sales_overview.png)
+
+![](performance_overview.png)
+
+![](customer_feedback.png)
+
 ---
 ## ✅Results & Conclusion
 This dashboard turns four years of transaction data into a clear strategic view, not just a set of charts. New customers outnumber returning ones by a wide margin, so the next phase of growth should focus more on retention than acquisition. Revenue is concentrated — a handful of products and two regions (US and Europe) drive most of the sales — making them the natural priority for continued investment over broader expansion. Customer satisfaction is solid overall, but the complaints that do exist are mostly logistics-related (delivery and packaging), pointing to an operations fix rather than a product one. Overall, the dashboard gives the business a filtered, always-current view to defend what's working, push where there's room, and fix what's quietly leaking value.
